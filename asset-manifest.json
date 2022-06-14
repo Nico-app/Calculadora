@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nico-app/Calculadora/static/css/main.c325900d.css",
+    "main.js": "/Nico-app/Calculadora/static/js/main.22fd713d.js",
+    "index.html": "/Nico-app/Calculadora/index.html",
+    "main.c325900d.css.map": "/Nico-app/Calculadora/static/css/main.c325900d.css.map",
+    "main.22fd713d.js.map": "/Nico-app/Calculadora/static/js/main.22fd713d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c325900d.css",
+    "static/js/main.22fd713d.js"
+  ]
+}
